@@ -33,6 +33,14 @@ nav, p, section, article {
     padding: 8px;
 }
 
+nav {
+    background-color: var(--secondary-color);
+}
+
+section {
+    background-color: var(--accent2-color);
+}
+
 .socialmedia a {
     text-decoration: none;
 }
